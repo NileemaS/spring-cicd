@@ -1,7 +1,9 @@
 package com.ms.cicd.controller;
 
-import com.ms.cicd.dto.EmployeeDto;
-import com.ms.cicd.service.EmployeeService;
+// import com.ms.cicd.dto.EmployeeDto;
+// import com.ms.cicd.service.EmployeeService;
+import EmployeeDto;
+import EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
